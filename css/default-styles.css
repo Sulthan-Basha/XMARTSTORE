@@ -792,7 +792,6 @@ html:not(.touch) .gallery-image figcaption.visible:after, html:not(.touch) .gall
 /* Contact Section */
 .contactform {background-image:url(../images/map.png);background-attachment:fixed; background-repeat:no-repeat; padding-top:0px; padding-bottom:0px; background-size:cover;}
 .contact-form {background-color:rgba(0, 0, 0, 0.6);}
-.contactform .contact {padding-top:80px;}
 .contactform h1 {color:#fff;}
 
 .contact1 {
@@ -822,7 +821,7 @@ html:not(.touch) .gallery-image figcaption.visible:after, html:not(.touch) .gall
 .contact1-form-title {
   display: block;
   font-size: 28px;
-  color: #333333;
+  color: #fff;
   line-height: 1.2;font-family: 'Dosis', sans-serif;
   text-align: center;
   padding-bottom: 44px; font-weight:700;
