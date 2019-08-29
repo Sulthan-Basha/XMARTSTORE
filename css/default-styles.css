@@ -11,7 +11,6 @@ h1, h2, h3, h4, h5, h6 {font-family: 'Dosis', sans-serif;}
 .mrg-top100 {margin-top:100px;}
 .nopaddingleft{padding-left:0px;}
 .nopaddingright{padding-right:0px;}
-.mM {display:none !important;}
 
 /*--------------------------------------------------------------
 # Header
@@ -543,7 +542,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 /*  Our Portfolio  */
 
 .portfolio-gallery {background-color:#fff;}
-.portfolio-gallery .gallery {padding-top:80px;}
+.portfolio-gallery .gallery { padding:60px 120px 80px 120px;}
 
 .gallery {
   -webkit-column-gap: 0;
