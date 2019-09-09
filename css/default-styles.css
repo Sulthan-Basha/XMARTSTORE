@@ -324,10 +324,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 
 /* Slider Section  */
-.main-banner {overflow:hidden; background-color:#fff;}
+
 .slider-wrapper {
 	width: 100%;
-	margin: 100px auto 0; position:relative;
+	margin: 80px auto 0; position:relative;
 }
 
 
