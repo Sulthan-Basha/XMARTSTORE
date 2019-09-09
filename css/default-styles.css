@@ -17,13 +17,13 @@ h1, h2, h3, h4, h5, h6 {font-family: 'Dosis', sans-serif;}
 --------------------------------------------------------------*/
 
 #header {
-  padding: 20px 0;
+  padding: 30px 0 20px 0;
   position: fixed;
   left: 0;
   top: 0;
   right: 0; height:85px;
   transition: all 0.5s;
-  z-index: 997;
+  z-index: 997; background-color:#fff;
 }
 
 #header.header-scrolled {
@@ -321,6 +321,19 @@ body.mobile-nav-active #mobile-nav-toggle {
 .social-icons {overflow:hidden; }
 .social-icons a i{background-color:#800080; border-radius:20px; width:30px; height:30px; color:#fff; text-align:center; padding:8px;}
 .social-icons a {color:#000; font-size:14px; font-weight:500;}
+
+
+/* Slider Section  */
+.main-banner {overflow:hidden; background-color:#fff;}
+.slider-wrapper {
+	width: 100%;
+	margin: 100px auto 0; position:relative;
+}
+
+
+
+
+
 
 /* About Us Section */
 .about-us {background-color:#f5f5f5;}
